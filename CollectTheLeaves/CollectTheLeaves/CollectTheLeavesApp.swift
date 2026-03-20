@@ -1,3 +1,10 @@
+//
+//  CollectTheLeavesApp.swift
+//  CollectTheLeaves
+//
+//  Created by Mochi Kim on 3/20/26.
+//
+
 import SwiftUI
 
 @main

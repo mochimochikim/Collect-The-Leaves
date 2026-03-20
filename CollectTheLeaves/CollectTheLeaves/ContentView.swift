@@ -1,3 +1,10 @@
+//
+//  ContentView.swift
+//  CollectTheLeaves
+//
+//  Created by Mochi Kim on 3/20/26.
+//
+
 import SwiftUI
 
 struct ContentView: View {
@@ -10,4 +17,8 @@ struct ContentView: View {
         }
         .padding()
     }
+}
+
+#Preview {
+    ContentView()
 }
